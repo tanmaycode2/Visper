@@ -4,7 +4,7 @@
 ## Description
 Front-End : The website is build using **HTML, CSS (& bootstrap5) , Javascript**.
 
-Back-End : Used **Azure static webapps** service to host website and **Azure SQL database** as database service.
+Back-End : Used **Azure static webapps** service to host website, **Azure SQL database** as database service and **Azure Devops** for version control and automated build & testing.
 
 This Website is going to be my Startup website where I explain the services we currently provide to customers.
 Website Use case: Customer come to website to see and explore the services we provide and if they like to contact us, they click to Get in touch button and then a contact form will pop up Where they can fill their details such as Name , Mobile number, Email ID and message. After submitting the details, We get their information In Azure SQL Database
@@ -18,6 +18,3 @@ This Project features the following capabilities:
 - **Vscode**
 - **Azure DevOps**
 
-## Progress(Project)
-**I am still upgrading this project by adding new features and services.**
-![frt_project-Microsoft-Azure](https://user-images.githubusercontent.com/66308861/156013206-8d4e6250-2895-4c2e-b487-2ffd7128d130.png)
