@@ -12,7 +12,7 @@ Using Azure services. I will host this website on AZURE STATIC webapps , and use
 
 ## Features
 This Project features the following capabilities:
-- **Azure-web-app-static**
+- **Azure web app**
 - **Azure SQL database**
 - **Github actions**
 - **Vscode**
